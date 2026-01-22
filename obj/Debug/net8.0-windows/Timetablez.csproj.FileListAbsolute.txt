@@ -1,0 +1,885 @@
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+D:\Timetablez\obj\Debug\net8.0-windows\TimeTableZ.MainForm.resources
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+D:\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+D:\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+D:\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+D:\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\TimeTableZ.MainForm.resources
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\johnm\Desktop\Dropbox\TimeTableZ\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+Z:\Timetablez\obj\Debug\net8.0-windows\TimeTableZ.MainForm.resources
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+Z:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+Z:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+Z:\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\johnm\Desktop\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\TimeTableZ.MainForm.resources
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\johnm\Desktop\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+L:\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+L:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+L:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+L:\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+L:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+L:\Timetablez\obj\Debug\net8.0-windows\TimeTableZ.MainForm.resources
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+L:\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+L:\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+Z:\Timetablez\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+L:\Timetablez\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+L:\Timetablez\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Timetablez\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Timetablez\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+L:\Timetablez\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+L:\Timetablez\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+L:\Timetablez\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+L:\Timetablez\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Dropbox\NEASHARED\OXFORD\Timetablez\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLE\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\Dean\FULL TIMETABLE\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV2\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Desktop\NeaLocal\FULL TIMETABLEV3\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\miari\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.TimetableAnalysis.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Dropbox\NEASHARED\Main\FULL TIMETABLE NEWEST\obj\Debug\net8.0-windows\ref\Timetablez.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\CsvHelper.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+D:\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+D:\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+D:\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+D:\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimetableBrowser.resources
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimetableBrowser.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimetableBrowser.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\johnm\Desktop\Dropbox\NEASHARED\TIMETABLEz\obj\Debug\net8.0-windows\ref\Timetablez.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.exe
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll.config
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.deps.json
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.runtimeconfig.json
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\New User\Desktop\TIMETABLEz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.AssemblyReference.cache
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.DataForm.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.MainForm.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Properties.Resources.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.Splash.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimetableBrowser.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.TimeTableGen.resources
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.GenerateResource.cache
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfoInputs.cache
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.AssemblyInfo.cs
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.csproj.Up2Date
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.dll
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\refint\Timetablez.dll
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.pdb
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\Timetablez.genruntimeconfig.cache
+C:\Users\New User\Desktop\TIMETABLEz\obj\Debug\net8.0-windows\ref\Timetablez.dll
